@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#fontInfo {
+  margin-top: 20px;
+}
+
+p {
+  margin: 8px 0;
+}
+
+strong {
+  margin-right: 10px;
+}
+
+.blue-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #0071e3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.blue-btn:hover {
+  background-color: #005bb5;
+}
